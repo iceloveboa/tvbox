@@ -1,5 +1,8 @@
 # tvbox
 tvbox
+
+https://ghproxy.com/https://raw.githubusercontent.com/iceloveboa/tvbox/main/tvbox.json
+
 tvbox配置接口地址
 https://freed.yuanhsing.cf/TVBox/meowcf.json
 
