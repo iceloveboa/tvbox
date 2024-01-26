@@ -1,4 +1,8 @@
 # tvbox
+
+[饭太硬.ml](http://饭太硬.ml/tv)
+http://我不是.肥猫.love:63/接口禁止贩卖
+
 tvbox
 
 https://ghproxy.com/https://raw.githubusercontent.com/iceloveboa/tvbox/main/tvbox.json
